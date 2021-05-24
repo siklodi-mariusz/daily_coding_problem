@@ -3,3 +3,6 @@ AllCops:
   DisplayStyleGuide: true
   NewCops: enable
   TargetRubyVersion: 3.0
+
+Metrics/BlockLength:
+  Enabled: false
