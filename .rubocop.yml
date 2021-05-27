@@ -6,3 +6,12 @@ AllCops:
 
 Metrics/BlockLength:
   Enabled: false
+
+Metrics/AbcSize:
+  Enabled: false
+
+Metrics/MethodLenght:
+  Enabled: false
+
+Metrics/CyclomaticComplexity:
+  Enabled: false
